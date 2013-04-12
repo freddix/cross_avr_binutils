@@ -2,13 +2,13 @@
 
 Summary:	GNU Binary Utility Development Utilities
 Name:		cross_avr_binutils
-Version:	2.23.1
+Version:	2.23.2
 Release:	1
 License:	GPL
 Group:		Development/Tools
 #Source0:	http://www.kernel.org/pub/linux/devel/binutils/binutils-%{version}.tar.bz2
 Source0:	http://ftp.gnu.org/gnu/binutils/binutils-%{version}.tar.bz2
-# Source0-md5:	33adb18c3048d057ac58d07a3f1adb38
+# Source0-md5:	4f8fa651e35ef262edc01d60fb45702e
 Patch0:		binutils-avr.patch
 URL:		http://sources.redhat.com/binutils/
 BuildRequires:	autoconf
